@@ -1,0 +1,10 @@
+<!-- StudentName                 Abdulkadir Abdulrehman -->
+<!-- StudentID           S1712579-->
+<!-- MPD: Coursework-->
+<!--program of study:computing -->
+
+<resources>
+    <string name="app_name">Abdulkadir Coursework </string>
+    <string name="GoogleMap_Andriod_API"> AIzaSyBigWkJXsw2AQYEncVdJ75jSf_p-ctXyPo </string>
+    <string name="acknowledgement"> information sources: British Geological Survey © UKRI 2019</string>
+</resources>

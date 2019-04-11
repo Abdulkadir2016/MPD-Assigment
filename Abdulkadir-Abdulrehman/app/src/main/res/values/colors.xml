@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- StudentName                 Abdulkadir Abdulrehman -->
+<!-- StudentID           S1712579-->
+<!-- MPD: Coursework-->
+<!--program of study:computing -->
+
+<resources>
+    <color name="colorPrimary">#39ac39</color>
+    <color name="colorPrimaryDark"> #39ac39</color>
+    <color name="colorAccent"> #39ac39</color>
+    <color name="Title"> #FFFFFF</color>
+    <color name="TitleBackground">#809fff</color>
+</resources>
